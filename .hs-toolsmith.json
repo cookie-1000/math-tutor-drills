@@ -1,0 +1,13 @@
+{
+  "hsToolsmith": true,
+  "title": "math-tutor-drills",
+  "pitch": "Generate and grade algebra/geometry drill sets with LaTeX and answer keys.",
+  "language": "python",
+  "category": "Other",
+  "keyFeatures": [
+    "Template-driven question generators (linear equations, factoring, triangles)",
+    "LaTeX/Overleaf-ready export with randomized variants",
+    "Auto-grading with step-checkable final answers and worked-solution outlines"
+  ],
+  "targetUsers": "Tutors and teachers who want scriptable problem-set generation they can export to PDFs."
+}
